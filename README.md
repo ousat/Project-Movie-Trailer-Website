@@ -8,15 +8,15 @@ When a poster is clicked , its respective trailer gets played.
 ## Requirements:
 - Python 2.7 or Python 3.x
 
-You can download python [here](https://www.python.org/downloads/).
+    You can download python [here](https://www.python.org/downloads/).
 
 - Google API client
 
-You can refer to the API instructions and download it from [here](https://developers.google.com/youtube/v3/quickstart/python).
+    You can refer to the API instructions and download it from [here](https://developers.google.com/youtube/v3/quickstart/python).
 
 - tmdbsimple API
 
-You can refer to the API instructions and download it from [here](https://pypi.python.org/pypi/tmdbsimple).
+    You can refer to the API instructions and download it from [here](https://pypi.python.org/pypi/tmdbsimple).
 
 ## Usage:
 
