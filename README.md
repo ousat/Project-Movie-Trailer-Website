@@ -10,6 +10,14 @@ When a poster is clicked , its respective trailer gets played.
 
 You can download python [here](https://www.python.org/downloads/).
 
+- Google API client
+
+You can refer to the API instructions and download it from [here](https://developers.google.com/youtube/v3/quickstart/python).
+
+- tmdbsimple API
+
+You can refer to the API instructions and download it from [here](https://pypi.python.org/pypi/tmdbsimple).
+
 ## Usage:
 
 1. Clone this project on github
@@ -32,6 +40,9 @@ You can download python [here](https://www.python.org/downloads/).
 
 3. This script will create the **fresh_tomatoes.html** and open a web browser for you to show the page.
 
+## Known Issues:
+Youtube API returns the first video , it has a check for if its a video, a check on the description or channel regarding the Authenticity of the video does not exist. Kindly change or update if you want to add more movies to the list.
+
 ## More:
 This project was run in Ubuntu 17.04 using Python 3.5.
 For other versions on other platforms follow [here](https://wiki.python.org/moin/BeginnersGuide)
@@ -42,8 +53,5 @@ This code was provided by Udacity for details :
 Visit https://github.com/udacity/ud036_StarterCode
 
 ## Acknowledgments:
-- Providing course and mentorship - [Udacity](https://in.udacity.com/) 
-- Documentations and code samples - [Python](http://www.python.org/)
-- Poster Images - [Wikipedia](https://en.wikipedia.org/)
-- Descriptions - [IMDB](http://www.imdb.com/)
-- Trailer Videos - [Youtube](https://www.youtube.com/)
+- Providing course and mentorship - [Udacity](https://in.udacity.com/).
+- Documentations and code samples - [Python](http://www.python.org/).
