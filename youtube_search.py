@@ -7,7 +7,7 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
 # developerkey obtained from google projects
-DEVELOPER_KEY = 'AIzaSyCI3N0Qm5nOZ6JPj9QWCp6xq8Y_6sDzVhs'
+DEVELOPER_KEY = '/**/'  # GET API FROM GOOGLE CONSOLE
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
