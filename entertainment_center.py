@@ -3,7 +3,7 @@ import fresh_tomatoes
 import youtube_search
 import tmdbsimple as tmdb
 # tmdb api key to fetch movie details
-tmdb.API_KEY = '99df58ea428a24bd08801335c2c35789'
+tmdb.API_KEY = '** **' # GET API KEY FROM TMDB site
 # list of movies whose details will be fetched and saved
 movie_names = ['Kong: Skull Island',
                'Avengers: Infinity War',
